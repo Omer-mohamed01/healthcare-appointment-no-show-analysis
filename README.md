@@ -64,7 +64,7 @@ The project translates raw healthcare data into practical insights that support 
 ## 🗂️ Project Structure
 
 
-healthcare-appointment-no-show-analysis/
+Healthcare Operations
 </br>
 README.md
 </br>
