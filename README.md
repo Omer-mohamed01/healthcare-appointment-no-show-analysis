@@ -42,9 +42,9 @@ SMS reminders reduce missed appointments.
 Younger age groups show higher no-show behavior.
 </br>
 Patients waiting more than 7 days are more likely to miss their appointment.
-![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Sum%20of%20Trips%20Casual%20vs%20Annual.png)
+![](https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/041f78fcc5cf34b738049fa04ec2a6719fef599c/Charts/Financial%20Drain%20Analysis%20(Breaking%20Down%20Lost%20Revenue).png)
 </br>
-![](https://github.com/Omer-mohamed01/Cyclistic-Bike-Share-Analysis/blob/16dab1253fc05c436aba562428730ee514ceeb40/Charts/Average%20Ride%20Length%20Day%20of%20Week.png)
+![](https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/041f78fcc5cf34b738049fa04ec2a6719fef599c/Charts/Root%20Cause%20Analysis%20(Drivers%20of%20Missed%20Appointments).png)
 
 ## 💡 Recommendations
 Reduce scheduling lead times where possible.
@@ -71,24 +71,27 @@ README.md
 LICENSE
 </br>
 ├── Data |
-    └──Data medical_appointment_noshow.csv
+    └──<a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/95d2bd1cb990c9291a7e83b29c431ac6f4e70b8c/Data%20Source/medical-appointment-2016.csv">medical-appointment-2016.csv</a>
+    </br>
+├── Link |
+    └──<a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/95d2bd1cb990c9291a7e83b29c431ac6f4e70b8c/Data%20Source/Data%20Source%20Link.txt">medical-appointment-2016.txt</a>
 </br>
 ├── Excel |
-  └──data_cleaning.xlsx
+  └──<a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/95d2bd1cb990c9291a7e83b29c431ac6f4e70b8c/Data%20Cleaning/Medical%20Appointment%202016.xlsx">Data Cleaning.xlsx</a>
 </br>
 ├── Power bi |
-   └── Medical_Appointment_Analysis.pbix
+   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/041f78fcc5cf34b738049fa04ec2a6719fef599c/Document/Presentation.pptx">Medical Appointment 2016.pbix</a>
 </br>
 ├── Presentation |
-   └── Medical_Appointment_Insights.pdf
+   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/041f78fcc5cf34b738049fa04ec2a6719fef599c/Document/Presentation.pdf">Presentation.pdf</a>
 </br>
 └── Images |
     </br>
-    └── dashboard_overview.png
+    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/e73d8c3d9c590ce794e78d7971186ecdbb2e2c30/Charts/Dasboard.png">.Dasboard Overview.png</a>
     </br>
-    └── no_show_by_waiting_days.png
+    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/e73d8c3d9c590ce794e78d7971186ecdbb2e2c30/Charts/Total%20Number%20of%20%20Missed%20by%20Age%20Group.png">Age Group Impact.png</a>
     </br>
-    └── sms_impact.png
+    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/e73d8c3d9c590ce794e78d7971186ecdbb2e2c30/Charts/Total%20Number%20of%20%20Missed%20by%20SMS%20Received.png">SMS Impact.png</a>
 
 ---
 
