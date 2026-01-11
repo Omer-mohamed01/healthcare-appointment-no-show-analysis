@@ -85,9 +85,6 @@ LICENSE
 </br>
 ├── Power bi |
    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/55474a8925b3a9852ab6d067210dcf94a6c82ba9/Data%20Analysis/Medical%20Appointment%202016%20Analysis.pbix">Medical Appointment 2016.pbix</a>
-   </br>
-├── Dasboard |
-   └── <a href="https://app.powerbi.com/groups/0de4da28-3fc8-4014-a6a0-ddb5c2509927/list?experience=power-bi">Medical Appointment 2016.txt</a>
 </br>
 ├── Presentation |
    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/06ab7da92ff6fb78ffdcb2544d2fe4765eb89fd2/Document/Healthcare%20Operations%20Presentation.pdf">Medical Appointment 2016.pdf</a>
