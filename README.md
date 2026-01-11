@@ -6,6 +6,10 @@ Power BI healthcare analytics project analyzing appointment no-shows, waiting ti
 </br>
 Used under a public data license for educational purposes.
 
+## Dasboard
+<a href="https://app.powerbi.com/groups/0de4da28-3fc8-4014-a6a0-ddb5c2509927/list?experience=power-bi">Healthcare Operations Dasboard</a>
+</br>
+
 ## 📊 Project Overview
 This project analyzes medical appointment data to understand the key factors driving appointment no-shows, long waiting times, and patient attendance behavior. The goal is to provide actionable insights to improve clinic scheduling efficiency and patient experience.
 
@@ -80,7 +84,10 @@ LICENSE
   └──<a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/95d2bd1cb990c9291a7e83b29c431ac6f4e70b8c/Data%20Cleaning/Medical%20Appointment%202016.xlsx">Data Cleaning.xlsx</a>
 </br>
 ├── Power bi |
-   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/06ab7da92ff6fb78ffdcb2544d2fe4765eb89fd2/Document/Healthcare%20Operations%20Presentation.pptx">Medical Appointment 2016.pbix</a>
+   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/55474a8925b3a9852ab6d067210dcf94a6c82ba9/Data%20Analysis/Medical%20Appointment%202016%20Analysis.pbix">Medical Appointment 2016.pbix</a>
+   </br>
+├── Dasboard |
+   └── <a href="https://app.powerbi.com/groups/0de4da28-3fc8-4014-a6a0-ddb5c2509927/list?experience=power-bi">Medical Appointment 2016.txt</a>
 </br>
 ├── Presentation |
    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/06ab7da92ff6fb78ffdcb2544d2fe4765eb89fd2/Document/Healthcare%20Operations%20Presentation.pdf">Medical Appointment 2016.pdf</a>
