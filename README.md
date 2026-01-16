@@ -90,7 +90,7 @@ LICENSE
    └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/blob/06ab7da92ff6fb78ffdcb2544d2fe4765eb89fd2/Document/Healthcare%20Operations%20Presentation.pdf">Medical Appointment 2016.pdf</a>
 </br>
 ├── Images |
-   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/tree/main/Charts">Charts</a>
+   └── <a href="https://github.com/Omer-mohamed01/healthcare-appointment-no-show-analysis/tree/main/Charts">Charts.png</a>
 
 ---
 
