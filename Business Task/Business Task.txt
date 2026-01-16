@@ -1,0 +1,11 @@
+
+The business task for this project is for the healthcare provider to analyze patient appointment data to identify the concentration of no-show behavior and revenue leakage. This analysis aims to uncover patterns across:
+
+Clinic locations: Pinpointing which specific sites are most affected by service disruptions.
+
+
+Patient demographics: Understanding which groups contribute most to missed appointments.
+
+Scheduling logistics: Examining how factors like lead time and reminder systems impact attendance.
+
+Ultimately, the goal is to answer key business questions that help the provider reduce no-show rates, improve scheduling efficiency, and enhance the overall patient experience
